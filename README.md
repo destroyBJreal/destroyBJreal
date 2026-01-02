@@ -1,7 +1,8 @@
-## 🔭 I’m currently working on ... GS25-GS retail
-## 🌱 I’m currently learning ... JAVA, SPRING BOOT, REACT
-## 💬 Ask me about ...  HOW TO DO WELL IN THE MILITARY LIFE
-## ⚡ Fun fact: ... I AM 22
+## 내가 뭐 하는 사람이게?
+- 🔭 I’m currently working on ... GS25-GS retail
+- 🌱 I’m currently learning ... JAVA, SPRING BOOT, REACT
+- 💬 Ask me about ...  HOW TO DO WELL IN THE MILITARY LIFE
+- ⚡ Fun fact: ... I AM 22
 
 <!--
 **destroyBJreal/destroyBJreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
