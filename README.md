@@ -1,6 +1,6 @@
 ## 내가 뭐 하는 사람이게?
 - 🔭 I’m currently working on ... GS25-GS retail
-- 🌱 I’m currently learning ... JAVA, SPRING BOOT, REACT
+- 🌱 I’m currently learning ... JAVA, SPRING BOOT, REACT, KOTLIN, ANDROID
 - 💬 Ask me about ...  HOW TO DO WELL IN THE MILITARY LIFE
 - ⚡ Fun fact: ... I AM 22
 
